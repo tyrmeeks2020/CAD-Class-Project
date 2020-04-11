@@ -1,0 +1,70 @@
+Title: Project Assignment, Step 3
+Author: Ty Meeks
+Ty’s Personal Fitness Tracker
+
+Purpose:  
+Part 1 – MVP - minimum-viable product, i.e., "must have" these in order for the application to be usable at all
+
+The purpose of this project is to track my fitness workout sessions for the week. I plan to exercise 5-6 times per week. It will also give me
+the ability to log workouts, complete with timers, weight, sets, reps, calories, and store my exercises, etc.
+
+1. Required functions for the app. 
+a. Create a calander
+b. Create workout logs
+c. Build in a timer
+d. Create a DB to store workouts, 
+e. Create a DB to store workout plans
+f. Create DB to track performance e.g. weight, body measurements, 
+g. Create DB to store heart rate info
+
+2. The workout will be tracked in 4 phases (warm-up, strength training, cardio training, and cool).
+a. Create a page for each phase to track the workout:
+b. Each page will have all the features in part 1. 
+
+3. The Warm-up session
+a. 	Input activities completed
+b.	Track the time
+c.	Document the sets
+d. 	Document the repetitions
+e.	Create a comment box
+f. 	Monitor the intensity
+*Intensity: L/M/V=Light/Moderate/Vigorous or E/M/H=Easy/Medium/Hard or Heart Rate
+
+4. Strength Straining
+a. Input exercises completed
+b. Input the number of sets
+c. Input the repetitions
+d. Input the weight 
+e. Track rest time
+f. Create a comment box
+
+5. Cardio Training
+a. Create a drop down list to select the exercises:
+Running
+Walking
+Cycling
+b. Capture the exercise completed 
+c. Track time
+d. Document the distance 
+
+6. Cool Down
+a. Input exercises completed
+b. Annotate the exercise completed
+c. Input the repetitions 
+d. Track rest time
+e. Create a comment box
+
+Part 2 - Full - "should have"; completion of this category is necessary for a functional, shippable product
+
+Additional features will give me the ability to track my fitness 
+1. Create an area to track: 
+	a. performance goals
+	b. Calories burned 
+	c. weight loss
+	d. track exercise history 
+
+2. Create workout notification reminder 
+
+Part 3 - Stretch - "nice to have"; extra features that extend the system's core functionality. Implement if you have time, put on the "coming soon"
+ page if not.
+ A nutrition feature that include a verified database, unlimited nutrition plans, custom meal options, macro calculator, exercise database with videos, and an option to share accomplishments on social media once they have completed an activity or goal.
